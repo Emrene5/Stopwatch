@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(83, 74, 102);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  height: 100%;
+  line-height: 100px;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 30px auto;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 3em;
+  color: whitesmoke;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 100;
+  font-size: 1em;
+  color: whitesmoke;
+}
+
+#saniye,
+#salise {
+  font-size: 1.7em;
+  color: whitesmoke;
+}
+
+button {
+  border: solid 2px rgb(88, 49, 88);
+  border-radius: 5px;
+  background-color: rgb(78, 70, 95);
+  padding: 10px 24px;
+  margin: 40px 15px 40px 35px;
+  color: whitesmoke;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+button:hover {
+  background-color: rgb(67, 49, 83);
+}
